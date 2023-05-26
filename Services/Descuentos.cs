@@ -11,13 +11,6 @@ namespace Practica2.Services
     public class Descuentos
     {
         //DESCUENTOS POR COMPRAS GRANDES
-        /*
-         
-         
-         
-         
-         
-         */
         public void Descuento()
         {
             Console.Clear();
